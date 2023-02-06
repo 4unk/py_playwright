@@ -1,1 +1,1 @@
-# py_playwright
+# Попытка использовать playwright для автотестов
